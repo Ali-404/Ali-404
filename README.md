@@ -1,3 +1,4 @@
+![Alt text](https://avatars.githubusercontent.com/u/145220859?v=4 "a title")
 <h1 align="center">Hi 👋, I'm ALI</h1>
 <h3 align="center">A passionate developer from Morocco 🇲🇦</h3>
 
